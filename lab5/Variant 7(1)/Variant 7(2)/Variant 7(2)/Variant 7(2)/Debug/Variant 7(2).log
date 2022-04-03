@@ -1,0 +1,6 @@
+﻿  Variant 7(2).cpp
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(2)\Variant 7(2)\Variant 7(2)\Variant 7(2).cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(2)\Variant 7(2)\Variant 7(2)\Variant 7(2).cpp(9,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(2)\Variant 7(2)\Variant 7(2)\Variant 7(2).cpp(9,37): warning C4305: инициализация: усечение из "double" в "float"
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(2)\Variant 7(2)\Variant 7(2)\Variant 7(2).cpp(17,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Variant 7(2).vcxproj -> D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(2)\Variant 7(2)\Debug\Variant 7(2).exe

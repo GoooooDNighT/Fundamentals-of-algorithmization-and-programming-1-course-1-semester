@@ -1,0 +1,4 @@
+﻿  Variant 7(1).cpp
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(1)\Variant 7(1)\Variant 7(1).cpp(10,16): warning C4305: инициализация: усечение из "double" в "float"
+D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(1)\Variant 7(1)\Variant 7(1).cpp(10,34): warning C4305: инициализация: усечение из "double" в "float"
+  Variant 7(1).vcxproj -> D:\Основы алгоритмизации и программирования\Лабораторная работа 5\Variant 7(1)\Variant 7(1)\Debug\Variant 7(1).exe
